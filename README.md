@@ -11,6 +11,10 @@ I love to join different community and competition that involve creating somethi
 Skills:
 Web Development | Video Editor | Competitive Programmer
 
+![download](https://github.com/Web-Wanderer/Web-Wanderer/assets/97962347/bad3810a-5d94-4a21-9eaa-78076d1410ea)
+
+
+
 
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on frontend projects
